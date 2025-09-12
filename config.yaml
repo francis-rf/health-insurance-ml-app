@@ -1,0 +1,9 @@
+
+data:
+  raw: data/raw/premiums_young_with_gr.xlsx
+  processed: data/processed/
+  sample: data/sample/
+
+models:
+  best_model: models/best_model.pkl
+  feature_columns: models/feature_columns.csv
